@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35305'
     url: http://www.gutenberg.org/2009/agents/35305
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31537#Dr-A.-Oetkers-Grundlehren-der-Kochkunstsowie-preisgekr-nte-Rezepte-f-r-Haus-und-K-che
 gutenberg_bookshelf:
 - Cookery
 - DE Sachbuch
