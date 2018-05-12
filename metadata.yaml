@@ -1,0 +1,29 @@
+_repo: Dr-A.-Oetkers-Grundlehren-der-Kochkunstsowie-preisgekr-nte-Rezepte-f-r-Haus-und-K-che_31537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oetker, August
+    gutenberg_agent_id: '35305'
+    url: http://www.gutenberg.org/2009/agents/35305
+description: ''
+gutenberg_bookshelf:
+- Cookery
+- DE Sachbuch
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31537'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, German'
+- !lcc 'TX'
+title: 'Dr A. Oetkers Grundlehren der Kochkunst
+
+  sowie preisgekrönte Rezepte für Haus und Küche'
+url: http://www.gutenberg.org/ebooks/31537
